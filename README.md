@@ -61,7 +61,7 @@ Run the setup script:
 ./setup.ps1
 ```
 This will:
-- Create a Python virtual environment
+- Create a Python virtual environment named `venv`
 - Install backend requirements
 - Install frontend dependencies
 - Run database migration
